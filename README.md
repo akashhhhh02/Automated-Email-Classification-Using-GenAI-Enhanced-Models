@@ -83,7 +83,7 @@ The system supports real-time email classification using the trained GenAI-enhan
 
 ## 🚀 How to Run (Google Colab)
 
-1. Upload the dataset (`emails.csv`)
+1. Upload the dataset
 2. Install dependencies
 3. Run notebook cells sequentially
 4. Train baseline and GenAI models
